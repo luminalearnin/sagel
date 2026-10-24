@@ -4,7 +4,7 @@ export const products = [
     "name": "Jodha Set - Orange",
     "type": "Kurti Set",
     "price": 4750.0,
-    "image": "./sagel-catalog/8736443629747.jpg",
+    "image": "./sagel-catalog/8736443629747.webp",
     "stock": true
   },
   {
@@ -12,7 +12,7 @@ export const products = [
     "name": "Lal puff sleeve kurti set (2 piece)",
     "type": "SAGEL piece",
     "price": 2749.0,
-    "image": "./sagel-catalog/8753685758131.jpg",
+    "image": "./sagel-catalog/8753685758131.webp",
     "stock": true
   },
   {
@@ -20,7 +20,7 @@ export const products = [
     "name": "Kulhad puff sleeve kurti set (2 piece)",
     "type": "SAGEL piece",
     "price": 2749.0,
-    "image": "./sagel-catalog/8753685725363.jpg",
+    "image": "./sagel-catalog/8753685725363.webp",
     "stock": true
   },
   {
@@ -28,7 +28,7 @@ export const products = [
     "name": "Lal Chuski corset kurti set (2 piece)",
     "type": "SAGEL piece",
     "price": 2749.0,
-    "image": "./sagel-catalog/8753685692595.jpg",
+    "image": "./sagel-catalog/8753685692595.webp",
     "stock": true
   },
   {
@@ -36,7 +36,7 @@ export const products = [
     "name": "Kulhad Chai corset kurti set (2 piece)",
     "type": "SAGEL piece",
     "price": 2749.0,
-    "image": "./sagel-catalog/8753685659827.jpg",
+    "image": "./sagel-catalog/8753685659827.webp",
     "stock": true
   },
   {
@@ -44,7 +44,7 @@ export const products = [
     "name": "Poo Set - Wine",
     "type": "Kurti Set",
     "price": 4250.0,
-    "image": "./sagel-catalog/8736468304051.jpg",
+    "image": "./sagel-catalog/8736468304051.webp",
     "stock": true
   },
   {
@@ -52,7 +52,7 @@ export const products = [
     "name": "Mumtaz Set - Wine",
     "type": "Kurti Set",
     "price": 4250.0,
-    "image": "./sagel-catalog/8736468074675.jpg",
+    "image": "./sagel-catalog/8736468074675.webp",
     "stock": true
   },
   {
@@ -60,7 +60,7 @@ export const products = [
     "name": "Rekha sleeveless set (3 piece)",
     "type": "SAGEL piece",
     "price": 2625.0,
-    "image": "./sagel-catalog/8494168866995.jpg",
+    "image": "./sagel-catalog/8494168866995.webp",
     "stock": true
   },
   {
@@ -68,7 +68,7 @@ export const products = [
     "name": "Jodha Set - Purple",
     "type": "Kurti Set",
     "price": 4750.0,
-    "image": "./sagel-catalog/8736443400371.jpg",
+    "image": "./sagel-catalog/8736443400371.webp",
     "stock": true
   },
   {
@@ -76,7 +76,7 @@ export const products = [
     "name": "Mastani Lehenga Set - Orange",
     "type": "Lehenga Set",
     "price": 4750.0,
-    "image": "./sagel-catalog/8736443138227.jpg",
+    "image": "./sagel-catalog/8736443138227.webp",
     "stock": true
   },
   {
@@ -84,7 +84,7 @@ export const products = [
     "name": "Mastani Lehenga Set - Purple",
     "type": "Lehenga Set",
     "price": 4750.0,
-    "image": "./sagel-catalog/8736442876083.jpg",
+    "image": "./sagel-catalog/8736442876083.webp",
     "stock": true
   },
   {
@@ -92,7 +92,7 @@ export const products = [
     "name": "Rajkumari Peplum Set - Red",
     "type": "Kurti Set",
     "price": 4500.0,
-    "image": "./sagel-catalog/8736413810867.jpg",
+    "image": "./sagel-catalog/8736413810867.webp",
     "stock": true
   },
   {
@@ -100,7 +100,7 @@ export const products = [
     "name": "Rajkumari Peplum Set - Blue",
     "type": "Kurti Set",
     "price": 4500.0,
-    "image": "./sagel-catalog/8736413712563.jpg",
+    "image": "./sagel-catalog/8736413712563.webp",
     "stock": true
   },
   {
@@ -108,7 +108,7 @@ export const products = [
     "name": "Indumati One-Shoulder Set - Pink",
     "type": "Kurti Set",
     "price": 4500.0,
-    "image": "./sagel-catalog/8736413614259.jpg",
+    "image": "./sagel-catalog/8736413614259.webp",
     "stock": true
   },
   {
@@ -116,7 +116,7 @@ export const products = [
     "name": "Indumati One-Shoulder Set - Red",
     "type": "Kurti Set",
     "price": 4500.0,
-    "image": "./sagel-catalog/8736413450419.jpg",
+    "image": "./sagel-catalog/8736413450419.webp",
     "stock": true
   },
   {
@@ -124,7 +124,7 @@ export const products = [
     "name": "Cherry side adjustment kurti",
     "type": "SAGEL piece",
     "price": 1499.0,
-    "image": "./sagel-catalog/8713312829619.jpg",
+    "image": "./sagel-catalog/8713312829619.webp",
     "stock": true
   },
   {
@@ -132,7 +132,7 @@ export const products = [
     "name": "Aasmani set",
     "type": "SAGEL piece",
     "price": 2499.0,
-    "image": "./sagel-catalog/8713259876531.jpg",
+    "image": "./sagel-catalog/8713259876531.webp",
     "stock": true
   },
   {
@@ -140,7 +140,7 @@ export const products = [
     "name": "Kairi side adjustment kurti",
     "type": "SAGEL piece",
     "price": 1499.0,
-    "image": "./sagel-catalog/8713272983731.jpg",
+    "image": "./sagel-catalog/8713272983731.webp",
     "stock": true
   },
   {
@@ -148,7 +148,7 @@ export const products = [
     "name": "Anar side adjustment kurti",
     "type": "SAGEL piece",
     "price": 1499.0,
-    "image": "./sagel-catalog/8713286123699.jpg",
+    "image": "./sagel-catalog/8713286123699.webp",
     "stock": true
   },
   {
@@ -156,7 +156,7 @@ export const products = [
     "name": "Aasmani top",
     "type": "SAGEL piece",
     "price": 1399.0,
-    "image": "./sagel-catalog/8713268068531.jpg",
+    "image": "./sagel-catalog/8713268068531.webp",
     "stock": true
   },
   {
@@ -164,7 +164,7 @@ export const products = [
     "name": "GUL SET",
     "type": "SAGEL piece",
     "price": 2499.0,
-    "image": "./sagel-catalog/8701934600371.jpg",
+    "image": "./sagel-catalog/8701934600371.webp",
     "stock": true
   },
   {
@@ -172,7 +172,7 @@ export const products = [
     "name": "Veronica poncho kurti pink (free inner)",
     "type": "SAGEL piece",
     "price": 1099.0,
-    "image": "./sagel-catalog/8595697762483.jpg",
+    "image": "./sagel-catalog/8595697762483.webp",
     "stock": true
   },
   {
@@ -180,7 +180,7 @@ export const products = [
     "name": "Veronica poncho kurti blue (free inner)",
     "type": "SAGEL piece",
     "price": 1099.0,
-    "image": "./sagel-catalog/8595697467571.jpg",
+    "image": "./sagel-catalog/8595697467571.webp",
     "stock": true
   },
   {
@@ -188,7 +188,7 @@ export const products = [
     "name": "Poo corset kurti wine",
     "type": "SAGEL piece",
     "price": 1799.0,
-    "image": "./sagel-catalog/8595697402035.jpg",
+    "image": "./sagel-catalog/8595697402035.webp",
     "stock": true
   },
   {
@@ -196,7 +196,7 @@ export const products = [
     "name": "Poo corset kurti blue",
     "type": "SAGEL piece",
     "price": 1799.0,
-    "image": "./sagel-catalog/8595694223539.jpg",
+    "image": "./sagel-catalog/8595694223539.webp",
     "stock": true
   },
   {
@@ -204,7 +204,7 @@ export const products = [
     "name": "Poo corset kurti pink",
     "type": "SAGEL piece",
     "price": 1799.0,
-    "image": "./sagel-catalog/8595693732019.jpg",
+    "image": "./sagel-catalog/8595693732019.webp",
     "stock": true
   },
   {
@@ -212,7 +212,7 @@ export const products = [
     "name": "Cola set",
     "type": "SAGEL piece",
     "price": 2599.0,
-    "image": "./sagel-catalog/8579095527603.jpg",
+    "image": "./sagel-catalog/8579095527603.webp",
     "stock": true
   },
   {
@@ -220,7 +220,7 @@ export const products = [
     "name": "Cassata set",
     "type": "SAGEL piece",
     "price": 2599.0,
-    "image": "./sagel-catalog/8579093004467.jpg",
+    "image": "./sagel-catalog/8579093004467.webp",
     "stock": true
   },
   {
@@ -228,7 +228,7 @@ export const products = [
     "name": "Lal chuski pants",
     "type": "SAGEL piece",
     "price": 1250.0,
-    "image": "./sagel-catalog/8557471498419.png",
+    "image": "./sagel-catalog/8557471498419.webp",
     "stock": true
   },
   {
@@ -236,7 +236,7 @@ export const products = [
     "name": "Kulhad Chai pants",
     "type": "SAGEL piece",
     "price": 1250.0,
-    "image": "./sagel-catalog/8557451542707.jpg",
+    "image": "./sagel-catalog/8557451542707.webp",
     "stock": true
   },
   {
@@ -244,7 +244,7 @@ export const products = [
     "name": "Cola corset kurti",
     "type": "SAGEL piece",
     "price": 1550.0,
-    "image": "./sagel-catalog/8524806586547.jpg",
+    "image": "./sagel-catalog/8524806586547.webp",
     "stock": true
   },
   {
@@ -252,7 +252,7 @@ export const products = [
     "name": "Cassata corset kurti",
     "type": "SAGEL piece",
     "price": 1550.0,
-    "image": "./sagel-catalog/8524808683699.jpg",
+    "image": "./sagel-catalog/8524808683699.webp",
     "stock": true
   },
   {
@@ -260,7 +260,7 @@ export const products = [
     "name": "Lal puff sleeve corset kurti",
     "type": "SAGEL piece",
     "price": 1499.0,
-    "image": "./sagel-catalog/8518630506675.jpg",
+    "image": "./sagel-catalog/8518630506675.webp",
     "stock": true
   },
   {
@@ -268,7 +268,7 @@ export const products = [
     "name": "Kulhad puff sleeve corset kurti",
     "type": "SAGEL piece",
     "price": 1499.0,
-    "image": "./sagel-catalog/8518625034419.jpg",
+    "image": "./sagel-catalog/8518625034419.webp",
     "stock": true
   },
   {
@@ -276,7 +276,7 @@ export const products = [
     "name": "Lavender geet kurti dupatta (2 piece)",
     "type": "SAGEL piece",
     "price": 1699.0,
-    "image": "./sagel-catalog/8315080999091.jpg",
+    "image": "./sagel-catalog/8315080999091.webp",
     "stock": true
   },
   {
@@ -284,7 +284,7 @@ export const products = [
     "name": "Seema kurti dupatta sleeveless set (3 piece)",
     "type": "SAGEL piece",
     "price": 2625.0,
-    "image": "./sagel-catalog/8494174896307.jpg",
+    "image": "./sagel-catalog/8494174896307.webp",
     "stock": true
   },
   {
@@ -292,7 +292,7 @@ export const products = [
     "name": "Kavita sleeveless set (3 piece)",
     "type": "SAGEL piece",
     "price": 2625.0,
-    "image": "./sagel-catalog/8494131806387.jpg",
+    "image": "./sagel-catalog/8494131806387.webp",
     "stock": true
   },
   {
@@ -300,7 +300,7 @@ export const products = [
     "name": "Farshi Salwar black",
     "type": "SAGEL piece",
     "price": 1250.0,
-    "image": "./sagel-catalog/8494148386995.jpg",
+    "image": "./sagel-catalog/8494148386995.webp",
     "stock": true
   },
   {
@@ -308,7 +308,7 @@ export const products = [
     "name": "Farshi Salwar maroon",
     "type": "SAGEL piece",
     "price": 1250.0,
-    "image": "./sagel-catalog/8494144815283.jpg",
+    "image": "./sagel-catalog/8494144815283.webp",
     "stock": true
   },
   {
@@ -316,7 +316,7 @@ export const products = [
     "name": "Farshi Salwar pink",
     "type": "SAGEL piece",
     "price": 1250.0,
-    "image": "./sagel-catalog/8494141997235.jpg",
+    "image": "./sagel-catalog/8494141997235.webp",
     "stock": true
   },
   {
@@ -324,7 +324,7 @@ export const products = [
     "name": "Seema set (3 piece)",
     "type": "SAGEL piece",
     "price": 2625.0,
-    "image": "./sagel-catalog/8494114046131.jpg",
+    "image": "./sagel-catalog/8494114046131.webp",
     "stock": true
   },
   {
@@ -332,7 +332,7 @@ export const products = [
     "name": "Rekha set (3 piece)",
     "type": "SAGEL piece",
     "price": 2625.0,
-    "image": "./sagel-catalog/8494109196467.jpg",
+    "image": "./sagel-catalog/8494109196467.webp",
     "stock": true
   },
   {
@@ -340,7 +340,7 @@ export const products = [
     "name": "Kavita set (3 piece)",
     "type": "SAGEL piece",
     "price": 2625.0,
-    "image": "./sagel-catalog/8493842759859.jpg",
+    "image": "./sagel-catalog/8493842759859.webp",
     "stock": true
   },
   {
@@ -348,7 +348,7 @@ export const products = [
     "name": "Kala Khatta corset kurti",
     "type": "SAGEL piece",
     "price": 1599.0,
-    "image": "./sagel-catalog/8489511223475.jpg",
+    "image": "./sagel-catalog/8489511223475.webp",
     "stock": true
   },
   {
@@ -356,7 +356,7 @@ export const products = [
     "name": "Jamun corset kurti",
     "type": "SAGEL piece",
     "price": 1599.0,
-    "image": "./sagel-catalog/8489536618675.jpg",
+    "image": "./sagel-catalog/8489536618675.webp",
     "stock": true
   },
   {
@@ -364,7 +364,7 @@ export const products = [
     "name": "Butter geet kurti dupatta (2 piece)",
     "type": "SAGEL piece",
     "price": 1699.0,
-    "image": "./sagel-catalog/8470160605363.png",
+    "image": "./sagel-catalog/8470160605363.webp",
     "stock": true
   },
   {
@@ -372,7 +372,7 @@ export const products = [
     "name": "Mint geet kurti dupatta (2 piece)",
     "type": "SAGEL piece",
     "price": 1699.0,
-    "image": "./sagel-catalog/8315083325619.png",
+    "image": "./sagel-catalog/8315083325619.webp",
     "stock": true
   },
   {
@@ -380,7 +380,7 @@ export const products = [
     "name": "Peach geet kurti dupatta (2 piece)",
     "type": "SAGEL piece",
     "price": 1699.0,
-    "image": "./sagel-catalog/8470159032499.jpg",
+    "image": "./sagel-catalog/8470159032499.webp",
     "stock": true
   },
   {
@@ -388,7 +388,7 @@ export const products = [
     "name": "Full sleeves Sham short kurti",
     "type": "SAGEL piece",
     "price": 1350.0,
-    "image": "./sagel-catalog/8419486138547.jpg",
+    "image": "./sagel-catalog/8419486138547.webp",
     "stock": true
   },
   {
@@ -396,7 +396,7 @@ export const products = [
     "name": "Full sleeve Subah short kurti",
     "type": "SAGEL piece",
     "price": 1299.0,
-    "image": "./sagel-catalog/8419640082611.jpg",
+    "image": "./sagel-catalog/8419640082611.webp",
     "stock": true
   },
   {
@@ -404,7 +404,7 @@ export const products = [
     "name": "Full sleeves Raat short kurti",
     "type": "SAGEL piece",
     "price": 1299.0,
-    "image": "./sagel-catalog/8419640115379.jpg",
+    "image": "./sagel-catalog/8419640115379.webp",
     "stock": true
   },
   {
@@ -412,7 +412,7 @@ export const products = [
     "name": "Butter Geet set (3 piece)",
     "type": "SAGEL piece",
     "price": 2599.0,
-    "image": "./sagel-catalog/8394775822515.png",
+    "image": "./sagel-catalog/8394775822515.webp",
     "stock": true
   },
   {
@@ -420,7 +420,7 @@ export const products = [
     "name": "Peach 30 second saree",
     "type": "SAGEL piece",
     "price": 3899.0,
-    "image": "./sagel-catalog/8388294738099.jpg",
+    "image": "./sagel-catalog/8388294738099.webp",
     "stock": true
   },
   {
@@ -428,7 +428,7 @@ export const products = [
     "name": "Noor set",
     "type": "SAGEL piece",
     "price": 3799.0,
-    "image": "./sagel-catalog/8384995557555.jpg",
+    "image": "./sagel-catalog/8384995557555.webp",
     "stock": true
   },
   {
@@ -436,7 +436,7 @@ export const products = [
     "name": "Noor set",
     "type": "SAGEL piece",
     "price": 3790.0,
-    "image": "./sagel-catalog/8384993984691.jpg",
+    "image": "./sagel-catalog/8384993984691.webp",
     "stock": true
   },
   {
@@ -444,7 +444,7 @@ export const products = [
     "name": "Farshi Salwar off-white",
     "type": "SAGEL piece",
     "price": 1250.0,
-    "image": "./sagel-catalog/8379254374579.jpg",
+    "image": "./sagel-catalog/8379254374579.webp",
     "stock": true
   },
   {
@@ -452,7 +452,7 @@ export const products = [
     "name": "Mint Geet set (3 piece)",
     "type": "SAGEL piece",
     "price": 2559.0,
-    "image": "./sagel-catalog/8376428724403.png",
+    "image": "./sagel-catalog/8376428724403.webp",
     "stock": true
   },
   {
@@ -460,7 +460,7 @@ export const products = [
     "name": "Lavender Geet set (3 piece)",
     "type": "SAGEL piece",
     "price": 2499.0,
-    "image": "./sagel-catalog/8376429346995.png",
+    "image": "./sagel-catalog/8376429346995.webp",
     "stock": true
   },
   {
@@ -468,7 +468,7 @@ export const products = [
     "name": "Peach Geet set (3 piece)",
     "type": "SAGEL piece",
     "price": 2499.0,
-    "image": "./sagel-catalog/8376424497331.jpg",
+    "image": "./sagel-catalog/8376424497331.webp",
     "stock": true
   },
   {
@@ -476,7 +476,7 @@ export const products = [
     "name": "Pink Y2k set",
     "type": "SAGEL piece",
     "price": 4199.0,
-    "image": "./sagel-catalog/8374798024883.jpg",
+    "image": "./sagel-catalog/8374798024883.webp",
     "stock": true
   },
   {
@@ -484,7 +484,7 @@ export const products = [
     "name": "Purple Y2k set",
     "type": "SAGEL piece",
     "price": 4199.0,
-    "image": "./sagel-catalog/8374792716467.jpg",
+    "image": "./sagel-catalog/8374792716467.webp",
     "stock": true
   },
   {
@@ -492,7 +492,7 @@ export const products = [
     "name": "Peach bell bottom pants",
     "type": "SAGEL piece",
     "price": 1799.0,
-    "image": "./sagel-catalog/8342460989619.png",
+    "image": "./sagel-catalog/8342460989619.webp",
     "stock": true
   },
   {
@@ -500,7 +500,7 @@ export const products = [
     "name": "Green phuljhari 3 piece set",
     "type": "SAGEL piece",
     "price": 4199.0,
-    "image": "./sagel-catalog/8342456664243.jpg",
+    "image": "./sagel-catalog/8342456664243.webp",
     "stock": true
   },
   {
@@ -508,7 +508,7 @@ export const products = [
     "name": "Peach phuljhari 3 piece set",
     "type": "SAGEL piece",
     "price": 4190.0,
-    "image": "./sagel-catalog/8342441296051.jpg",
+    "image": "./sagel-catalog/8342441296051.webp",
     "stock": true
   },
   {
@@ -516,7 +516,7 @@ export const products = [
     "name": "Red phuljhari 3 piece set",
     "type": "SAGEL piece",
     "price": 4190.0,
-    "image": "./sagel-catalog/8342439264435.png",
+    "image": "./sagel-catalog/8342439264435.webp",
     "stock": true
   },
   {
@@ -524,7 +524,7 @@ export const products = [
     "name": "Brown phuljhari 3 piece set",
     "type": "SAGEL piece",
     "price": 4199.0,
-    "image": "./sagel-catalog/8342446899379.png",
+    "image": "./sagel-catalog/8342446899379.webp",
     "stock": true
   },
   {
@@ -532,7 +532,7 @@ export const products = [
     "name": "Maroon Y2k 3 piece set",
     "type": "SAGEL piece",
     "price": 4190.0,
-    "image": "./sagel-catalog/8342468329651.png",
+    "image": "./sagel-catalog/8342468329651.webp",
     "stock": true
   },
   {
@@ -540,7 +540,7 @@ export const products = [
     "name": "Blue Y2k set",
     "type": "SAGEL piece",
     "price": 4199.0,
-    "image": "./sagel-catalog/8342468755635.jpg",
+    "image": "./sagel-catalog/8342468755635.webp",
     "stock": true
   },
   {
@@ -548,7 +548,7 @@ export const products = [
     "name": "Maroon Patakha 3 piece set",
     "type": "SAGEL piece",
     "price": 3590.0,
-    "image": "./sagel-catalog/8334160429235.png",
+    "image": "./sagel-catalog/8334160429235.webp",
     "stock": true
   },
   {
@@ -556,7 +556,7 @@ export const products = [
     "name": "Blue Patakha 3 piece set",
     "type": "SAGEL piece",
     "price": 3590.0,
-    "image": "./sagel-catalog/8334160068787.png",
+    "image": "./sagel-catalog/8334160068787.webp",
     "stock": true
   },
   {
@@ -564,7 +564,7 @@ export const products = [
     "name": "Peach Patakha 3 piece set",
     "type": "SAGEL piece",
     "price": 3590.0,
-    "image": "./sagel-catalog/8334132773043.png",
+    "image": "./sagel-catalog/8334132773043.webp",
     "stock": true
   },
   {
@@ -572,7 +572,7 @@ export const products = [
     "name": "Pista kulfi short kurti",
     "type": "SAGEL piece",
     "price": 1599.0,
-    "image": "./sagel-catalog/8311848599731.jpg",
+    "image": "./sagel-catalog/8311848599731.webp",
     "stock": true
   },
   {
@@ -580,7 +580,7 @@ export const products = [
     "name": "Lal chuski corset kurti",
     "type": "SAGEL piece",
     "price": 1599.0,
-    "image": "./sagel-catalog/8311846273203.jpg",
+    "image": "./sagel-catalog/8311846273203.webp",
     "stock": true
   },
   {
@@ -588,7 +588,7 @@ export const products = [
     "name": "Roohafza corset kurti",
     "type": "SAGEL piece",
     "price": 1599.0,
-    "image": "./sagel-catalog/8289975959731.jpg",
+    "image": "./sagel-catalog/8289975959731.webp",
     "stock": true
   },
   {
@@ -596,7 +596,7 @@ export const products = [
     "name": "Peela Colada corset kurti",
     "type": "SAGEL piece",
     "price": 1599.0,
-    "image": "./sagel-catalog/8289974026419.jpg",
+    "image": "./sagel-catalog/8289974026419.webp",
     "stock": true
   },
   {
@@ -604,7 +604,7 @@ export const products = [
     "name": "Kulhad Chai corset kurti",
     "type": "SAGEL piece",
     "price": 1599.0,
-    "image": "./sagel-catalog/8289973272755.jpg",
+    "image": "./sagel-catalog/8289973272755.webp",
     "stock": true
   },
   {
@@ -612,7 +612,7 @@ export const products = [
     "name": "Sham short kurti cherry red",
     "type": "SAGEL piece",
     "price": 1399.0,
-    "image": "./sagel-catalog/8293716000947.jpg",
+    "image": "./sagel-catalog/8293716000947.webp",
     "stock": true
   },
   {
@@ -620,7 +620,7 @@ export const products = [
     "name": "Raat short kurti black",
     "type": "SAGEL piece",
     "price": 1399.0,
-    "image": "./sagel-catalog/8293712625843.jpg",
+    "image": "./sagel-catalog/8293712625843.webp",
     "stock": true
   },
   {
@@ -628,7 +628,7 @@ export const products = [
     "name": "Subah short kurti beige",
     "type": "SAGEL piece",
     "price": 1299.0,
-    "image": "./sagel-catalog/8293695488179.jpg",
+    "image": "./sagel-catalog/8293695488179.webp",
     "stock": true
   },
   {
@@ -636,7 +636,7 @@ export const products = [
     "name": "Beige Swirl anarkali pants dupatta set",
     "type": "SAGEL piece",
     "price": 5099.0,
-    "image": "./sagel-catalog/8283384217779.jpg",
+    "image": "./sagel-catalog/8283384217779.webp",
     "stock": true
   },
   {
@@ -644,7 +644,7 @@ export const products = [
     "name": "Knotty kurti dupatta pants set",
     "type": "SAGEL piece",
     "price": 4099.0,
-    "image": "./sagel-catalog/8245809905843.jpg",
+    "image": "./sagel-catalog/8245809905843.webp",
     "stock": true
   },
   {
@@ -652,7 +652,7 @@ export const products = [
     "name": "Knotty kurti dupatta pants set",
     "type": "SAGEL piece",
     "price": 3899.0,
-    "image": "./sagel-catalog/8245808693427.jpg",
+    "image": "./sagel-catalog/8245808693427.webp",
     "stock": true
   },
   {
@@ -660,7 +660,7 @@ export const products = [
     "name": "Dupatta",
     "type": "SAGEL piece",
     "price": 801.0,
-    "image": "./sagel-catalog/8245804957875.jpg",
+    "image": "./sagel-catalog/8245804957875.webp",
     "stock": true
   },
   {
@@ -668,7 +668,7 @@ export const products = [
     "name": "Tilt fit set Mustard",
     "type": "SAGEL piece",
     "price": 4199.0,
-    "image": "./sagel-catalog/8245796077747.jpg",
+    "image": "./sagel-catalog/8245796077747.webp",
     "stock": true
   },
   {
@@ -676,7 +676,7 @@ export const products = [
     "name": "Yellow side line set",
     "type": "SAGEL piece",
     "price": 4099.0,
-    "image": "./sagel-catalog/8245795651763.jpg",
+    "image": "./sagel-catalog/8245795651763.webp",
     "stock": true
   },
   {
@@ -684,7 +684,7 @@ export const products = [
     "name": "Tilt fit top pant set",
     "type": "SAGEL piece",
     "price": 4099.0,
-    "image": "./sagel-catalog/8245776187571.jpg",
+    "image": "./sagel-catalog/8245776187571.webp",
     "stock": true
   },
   {
@@ -692,7 +692,7 @@ export const products = [
     "name": "Blue Side line top pants set",
     "type": "SAGEL piece",
     "price": 4099.0,
-    "image": "./sagel-catalog/8245772419251.jpg",
+    "image": "./sagel-catalog/8245772419251.webp",
     "stock": true
   },
   {
@@ -700,7 +700,7 @@ export const products = [
     "name": "Yellow Swirl Kurta set",
     "type": "SAGEL piece",
     "price": 4999.0,
-    "image": "./sagel-catalog/8245051195571.jpg",
+    "image": "./sagel-catalog/8245051195571.webp",
     "stock": true
   },
   {
@@ -708,7 +708,7 @@ export const products = [
     "name": "Jaya 30 second saree",
     "type": "SAGEL piece",
     "price": 3899.0,
-    "image": "./sagel-catalog/8245027930291.jpg",
+    "image": "./sagel-catalog/8245027930291.webp",
     "stock": true
   },
   {
@@ -716,7 +716,7 @@ export const products = [
     "name": "Sushma 30 second Saree",
     "type": "SAGEL piece",
     "price": 3699.0,
-    "image": "./sagel-catalog/8245020819635.jpg",
+    "image": "./sagel-catalog/8245020819635.webp",
     "stock": true
   },
   {
@@ -724,7 +724,7 @@ export const products = [
     "name": "Rekha 30 second Saree",
     "type": "SAGEL piece",
     "price": 3899.0,
-    "image": "./sagel-catalog/8244610465971.jpg",
+    "image": "./sagel-catalog/8244610465971.webp",
     "stock": true
   },
   {
@@ -732,7 +732,7 @@ export const products = [
     "name": "Red drape saree",
     "type": "SAGEL piece",
     "price": 5990.0,
-    "image": "./sagel-catalog/8242254315699.jpg",
+    "image": "./sagel-catalog/8242254315699.webp",
     "stock": true
   },
   {
@@ -740,7 +740,7 @@ export const products = [
     "name": "Mustard Drape saree",
     "type": "SAGEL piece",
     "price": 5990.0,
-    "image": "./sagel-catalog/8242202673331.jpg",
+    "image": "./sagel-catalog/8242202673331.webp",
     "stock": true
   },
   {
@@ -748,7 +748,7 @@ export const products = [
     "name": "Purple Drape saree",
     "type": "SAGEL piece",
     "price": 5990.0,
-    "image": "./sagel-catalog/8227209183411.jpg",
+    "image": "./sagel-catalog/8227209183411.webp",
     "stock": true
   }
 ];

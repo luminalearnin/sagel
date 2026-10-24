@@ -7,3 +7,6 @@
 - [x] Preserve frictionless shopping UX with sorting controls, fast slide-out bag, size selection, size guidance affordance, instant add-to-bag, and mobile-friendly checkout handoff.
 - [x] Keep the verified official SAGEL NEW IN catalog represented with all 94 products, names, prices, and official imagery.
 - [x] Produce a deployment-ready static build with production output under `main/docs` and the active GitHub Pages branch.
+
+- [x] Reduce first-load image cost by converting all 94 product assets to local WebP, lazy-loading the product grid, and preloading only the above-fold hero image.
+- [x] Add a discreet top-corner Sign in / Account drawer with email, phone, and delivery-address fields; opening checkout now requests these saved details without making sign-in part of the landing experience.
