@@ -7,7 +7,7 @@ export const products = [
     "category": "sets",
     "size": "M",
     "stock": true,
-    "image": "https://sagel.in/cdn/shop/files/398CDD5B-E3CD-4D61-B936-DF38C2C42A10.jpg?v=1791461900&width=533",
+    "image": "./sagel-catalog/01.jpg",
     "alt": "Poo Set - Wine"
   },
   {
@@ -18,7 +18,7 @@ export const products = [
     "category": "sets",
     "size": "M",
     "stock": true,
-    "image": "https://sagel.in/cdn/shop/files/3CB05DA7-DAB3-42BC-94D0-B2955FC07B21.jpg?v=1791461899&width=533",
+    "image": "./sagel-catalog/02.jpg",
     "alt": "Mumtaz Set - Wine"
   },
   {
@@ -29,7 +29,7 @@ export const products = [
     "category": "sets",
     "size": "M",
     "stock": true,
-    "image": "https://sagel.in/cdn/shop/files/AA4A14DC-85CC-40FC-8614-7A40EFAD50A1.jpg?v=1791462172&width=533",
+    "image": "./sagel-catalog/03.jpg",
     "alt": "Jodha Set - Orange"
   },
   {
@@ -40,7 +40,7 @@ export const products = [
     "category": "sets",
     "size": "M",
     "stock": true,
-    "image": "https://sagel.in/cdn/shop/files/4FFDE860-7D2F-41C3-988C-94006292526A.jpg?v=1791462172&width=533",
+    "image": "./sagel-catalog/04.jpg",
     "alt": "Jodha Set - Purple"
   },
   {
@@ -51,7 +51,7 @@ export const products = [
     "category": "sets",
     "size": "M",
     "stock": true,
-    "image": "https://sagel.in/cdn/shop/files/61A4FE75-A728-42BF-A8AD-05A7296F5541.jpg?v=1791462173&width=533",
+    "image": "./sagel-catalog/05.jpg",
     "alt": "Mastani Lehenga Set - Orange"
   },
   {
@@ -62,7 +62,7 @@ export const products = [
     "category": "sets",
     "size": "M",
     "stock": true,
-    "image": "https://sagel.in/cdn/shop/files/473487D7-9D24-4C58-A817-6F50398F786F.jpg?v=1791462172&width=533",
+    "image": "./sagel-catalog/06.jpg",
     "alt": "Mastani Lehenga Set - Purple"
   },
   {
@@ -73,7 +73,7 @@ export const products = [
     "category": "sets",
     "size": "M",
     "stock": false,
-    "image": "https://sagel.in/cdn/shop/files/6B295ADA-06F0-4D57-9E33-07B5CD38E1DC.jpg?v=1791462172&width=533",
+    "image": "./sagel-catalog/07.jpg",
     "alt": "Rajkumari Peplum Set - Red"
   },
   {
@@ -84,7 +84,7 @@ export const products = [
     "category": "sets",
     "size": "M",
     "stock": true,
-    "image": "https://sagel.in/cdn/shop/files/FBC8C69D-CC1D-45EA-B4F3-A6C8F76905A4.jpg?v=1791462172&width=533",
+    "image": "./sagel-catalog/08.jpg",
     "alt": "Rajkumari Peplum Set - Blue"
   },
   {
@@ -95,7 +95,7 @@ export const products = [
     "category": "sets",
     "size": "M",
     "stock": true,
-    "image": "https://sagel.in/cdn/shop/files/40C0728C-5B4D-49AD-87E3-319379F9A485.jpg?v=1791461900&width=533",
+    "image": "./sagel-catalog/09.jpg",
     "alt": "Indumati One-Shoulder Set - Pink"
   },
   {
@@ -106,7 +106,7 @@ export const products = [
     "category": "sets",
     "size": "M",
     "stock": true,
-    "image": "https://sagel.in/cdn/shop/files/3C5A64D3-DF71-4D93-96B1-B6383142107A.jpg?v=1791461899&width=533",
+    "image": "./sagel-catalog/10.jpg",
     "alt": "Indumati One-Shoulder Set - Red"
   },
   {
@@ -117,7 +117,7 @@ export const products = [
     "category": "kurtis",
     "size": "M",
     "stock": true,
-    "image": "https://sagel.in/cdn/shop/files/E8A2038B-DD7B-4F58-B7D4-F944B97083B3.jpg?v=1790502199&width=533",
+    "image": "./sagel-catalog/11.jpg",
     "alt": "Cherry side adjustment kurti"
   },
   {
@@ -128,7 +128,7 @@ export const products = [
     "category": "kurtis",
     "size": "M",
     "stock": true,
-    "image": "https://sagel.in/cdn/shop/files/69C711FD-30BD-4D93-A6CB-7064BBA3492D.jpg?v=1790501206&width=533",
+    "image": "./sagel-catalog/12.jpg",
     "alt": "Anar side adjustment kurti"
   },
   {
@@ -139,7 +139,7 @@ export const products = [
     "category": "kurtis",
     "size": "M",
     "stock": true,
-    "image": "https://sagel.in/cdn/shop/files/5F25A9EC-197F-47E1-9A7C-696B3D7C7C14.jpg?v=1790500827&width=533",
+    "image": "./sagel-catalog/13.jpg",
     "alt": "Kairi side adjustment kurti"
   },
   {
@@ -150,7 +150,7 @@ export const products = [
     "category": "kurtis",
     "size": "M",
     "stock": false,
-    "image": "https://sagel.in/cdn/shop/files/5E7ABE97-2DA9-4AFC-B602-38679180C652.jpg?v=1790501585&width=533",
+    "image": "./sagel-catalog/14.jpg",
     "alt": "Aasmani top"
   },
   {
@@ -161,7 +161,7 @@ export const products = [
     "category": "sets",
     "size": "M",
     "stock": true,
-    "image": "https://sagel.in/cdn/shop/files/67D6F5D5-8606-4317-A7C0-15640A91A76D.jpg?v=1790500385&width=533",
+    "image": "./sagel-catalog/15.jpg",
     "alt": "Aasmani set"
   },
   {
@@ -172,7 +172,7 @@ export const products = [
     "category": "sets",
     "size": "M",
     "stock": true,
-    "image": "https://sagel.in/cdn/shop/files/C0262BDC-1297-4AF1-9723-B776A6E0652C.jpg?v=1789887889&width=533",
+    "image": "./sagel-catalog/16.jpg",
     "alt": "GUL SET"
   },
   {
@@ -183,7 +183,7 @@ export const products = [
     "category": "kurtis",
     "size": "M",
     "stock": true,
-    "image": "https://sagel.in/cdn/shop/files/66C29D78-DC06-4C7D-964F-004CA59734AD.jpg?v=1786279123&width=533",
+    "image": "./sagel-catalog/17.jpg",
     "alt": "Veronica poncho kurti pink (free inner)"
   },
   {
@@ -194,7 +194,7 @@ export const products = [
     "category": "kurtis",
     "size": "M",
     "stock": true,
-    "image": "https://sagel.in/cdn/shop/files/1B2F76AB-4B59-415D-8960-6B5D25703BA3.jpg?v=1786279173&width=533",
+    "image": "./sagel-catalog/18.jpg",
     "alt": "Veronica poncho kurti blue (free inner)"
   },
   {
@@ -205,7 +205,7 @@ export const products = [
     "category": "sets",
     "size": "M",
     "stock": true,
-    "image": "https://sagel.in/cdn/shop/files/10A9CD41-1A9F-4161-80EA-35F6695C0211.jpg?v=1786277955&width=533",
+    "image": "./sagel-catalog/19.jpg",
     "alt": "Poo corset kurti wine"
   },
   {
@@ -216,7 +216,7 @@ export const products = [
     "category": "sets",
     "size": "M",
     "stock": true,
-    "image": "https://sagel.in/cdn/shop/files/DC9EC3F4-2EA5-4AE4-A4B3-405710883561.jpg?v=1786277432&width=533",
+    "image": "./sagel-catalog/20.jpg",
     "alt": "Poo corset kurti blue"
   },
   {
@@ -227,7 +227,7 @@ export const products = [
     "category": "sets",
     "size": "M",
     "stock": false,
-    "image": "https://sagel.in/cdn/shop/files/90FFE641-D742-4892-8935-BE56C53EAE70.jpg?v=1786277250&width=533",
+    "image": "./sagel-catalog/21.jpg",
     "alt": "Poo corset kurti pink"
   },
   {
@@ -238,7 +238,7 @@ export const products = [
     "category": "sets",
     "size": "M",
     "stock": true,
-    "image": "https://sagel.in/cdn/shop/files/217D396D-2767-4A16-9185-D26FD94F9978.jpg?v=1785662289&width=533",
+    "image": "./sagel-catalog/22.jpg",
     "alt": "Cola set"
   },
   {
@@ -249,7 +249,7 @@ export const products = [
     "category": "sets",
     "size": "M",
     "stock": true,
-    "image": "https://sagel.in/cdn/shop/files/808AA1E5-3132-417A-A8EA-5BE6706BCA5B.jpg?v=1785662289&width=533",
+    "image": "./sagel-catalog/23.jpg",
     "alt": "Cassata set"
   },
   {
@@ -260,7 +260,7 @@ export const products = [
     "category": "bottoms",
     "size": "M",
     "stock": true,
-    "image": "https://sagel.in/cdn/shop/files/65224CFF-E3D3-4EC2-87B1-9C5BB56CECBF.png?v=1784119728&width=533",
+    "image": "./sagel-catalog/24.png",
     "alt": "Lal chuski pants"
   },
   {
@@ -271,7 +271,7 @@ export const products = [
     "category": "bottoms",
     "size": "M",
     "stock": true,
-    "image": "https://sagel.in/cdn/shop/files/D24892ED-D0AB-4CD7-B902-B3CC130C2ADB.jpg?v=1789574543&width=533",
+    "image": "./sagel-catalog/25.jpg",
     "alt": "Kulhad Chai pants"
   },
   {
@@ -282,7 +282,7 @@ export const products = [
     "category": "sets",
     "size": "M",
     "stock": true,
-    "image": "https://sagel.in/cdn/shop/files/DAF47B5D-6D7D-4671-8357-924CCF94D82E.jpg?v=1781806900&width=533",
+    "image": "./sagel-catalog/26.jpg",
     "alt": "Cassata corset kurti"
   },
   {
@@ -293,7 +293,7 @@ export const products = [
     "category": "sets",
     "size": "M",
     "stock": true,
-    "image": "https://sagel.in/cdn/shop/files/5B59AC48-E2D9-4C00-B7E0-E26B9D23AD11.jpg?v=1781806454&width=533",
+    "image": "./sagel-catalog/27.jpg",
     "alt": "Cola corset kurti"
   },
   {
@@ -304,7 +304,7 @@ export const products = [
     "category": "sets",
     "size": "M",
     "stock": false,
-    "image": "https://sagel.in/cdn/shop/files/IMG_7646_JPG.jpg?v=1781199253&width=533",
+    "image": "./sagel-catalog/28.jpg",
     "alt": "Lal puff sleeve corset kurti"
   },
   {
@@ -315,7 +315,7 @@ export const products = [
     "category": "sets",
     "size": "M",
     "stock": true,
-    "image": "https://sagel.in/cdn/shop/files/IMG_7598_JPG.jpg?v=1781201297&width=533",
+    "image": "./sagel-catalog/29.jpg",
     "alt": "Kulhad puff sleeve corset kurti"
   },
   {
@@ -326,7 +326,7 @@ export const products = [
     "category": "sets",
     "size": "M",
     "stock": true,
-    "image": "https://sagel.in/cdn/shop/files/8A4B4F3B-0FCA-41B7-9159-932983757997.jpg?v=1777986678&width=533",
+    "image": "./sagel-catalog/30.jpg",
     "alt": "Seema kurti dupatta sleeveless set (3 piece)"
   },
   {
@@ -337,7 +337,7 @@ export const products = [
     "category": "sets",
     "size": "M",
     "stock": true,
-    "image": "https://sagel.in/cdn/shop/files/AD6E29AD-A296-423D-9BDF-149679BF48BE.jpg?v=1777983515&width=533",
+    "image": "./sagel-catalog/31.jpg",
     "alt": "Rekha sleeveless set (3 piece)"
   },
   {
@@ -348,7 +348,7 @@ export const products = [
     "category": "sets",
     "size": "M",
     "stock": true,
-    "image": "https://sagel.in/cdn/shop/files/C8F16124-065D-48FF-BE8E-963FFA5A6A14.jpg?v=1777984344&width=533",
+    "image": "./sagel-catalog/32.jpg",
     "alt": "Farshi Salwar black"
   },
   {
@@ -359,7 +359,7 @@ export const products = [
     "category": "sets",
     "size": "M",
     "stock": true,
-    "image": "https://sagel.in/cdn/shop/files/IMG_5476_JPG.jpg?v=1777984162&width=533",
+    "image": "./sagel-catalog/33.jpg",
     "alt": "Farshi Salwar maroon"
   },
   {
@@ -370,7 +370,7 @@ export const products = [
     "category": "sets",
     "size": "M",
     "stock": true,
-    "image": "https://sagel.in/cdn/shop/files/B8750B08-CC1E-424E-BFAB-A3BEDDB49BB9.jpg?v=1777983926&width=533",
+    "image": "./sagel-catalog/34.jpg",
     "alt": "Farshi Salwar pink"
   },
   {
@@ -381,7 +381,7 @@ export const products = [
     "category": "sets",
     "size": "M",
     "stock": false,
-    "image": "https://sagel.in/cdn/shop/files/F8EB0220-A469-4AC4-AF36-A3F5077211E5.jpg?v=1777984950&width=533",
+    "image": "./sagel-catalog/35.jpg",
     "alt": "Kavita sleeveless set (3 piece)"
   },
   {
@@ -392,7 +392,7 @@ export const products = [
     "category": "sets",
     "size": "M",
     "stock": true,
-    "image": "https://sagel.in/cdn/shop/files/BE058852-4FFC-4647-A18A-F4493C2FDCDB.jpg?v=1777982938&width=533",
+    "image": "./sagel-catalog/36.jpg",
     "alt": "Seema set (3 piece)"
   },
   {
@@ -403,7 +403,7 @@ export const products = [
     "category": "sets",
     "size": "M",
     "stock": true,
-    "image": "https://sagel.in/cdn/shop/files/A930BFDF-BFE8-40BE-B9FF-995EC2751A53.jpg?v=1777982232&width=533",
+    "image": "./sagel-catalog/37.jpg",
     "alt": "Rekha set (3 piece)"
   },
   {
@@ -414,7 +414,7 @@ export const products = [
     "category": "sets",
     "size": "M",
     "stock": true,
-    "image": "https://sagel.in/cdn/shop/files/IMG_5522_JPG.jpg?v=1777981434&width=533",
+    "image": "./sagel-catalog/38.jpg",
     "alt": "Kavita set (3 piece)"
   },
   {
@@ -425,7 +425,7 @@ export const products = [
     "category": "sets",
     "size": "M",
     "stock": true,
-    "image": "https://sagel.in/cdn/shop/files/255F27FF-7EB7-41DE-ADA7-D8D87EDA185F.jpg?v=1777314199&width=533",
+    "image": "./sagel-catalog/39.jpg",
     "alt": "Jamun corset kurti"
   },
   {
@@ -436,7 +436,7 @@ export const products = [
     "category": "sets",
     "size": "M",
     "stock": true,
-    "image": "https://sagel.in/cdn/shop/files/9AC7E26A-1C9D-457C-8EC7-16286E7EDA38.jpg?v=1777313563&width=533",
+    "image": "./sagel-catalog/40.jpg",
     "alt": "Kala Khatta corset kurti"
   },
   {
@@ -447,7 +447,7 @@ export const products = [
     "category": "sets",
     "size": "M",
     "stock": true,
-    "image": "https://sagel.in/cdn/shop/files/22A582EE-EDE1-4B71-BD73-0E3E909A718A.png?v=1775304833&width=533",
+    "image": "./sagel-catalog/41.png",
     "alt": "Butter Geet set (3 piece)"
   }
 ];
